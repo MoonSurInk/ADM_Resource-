@@ -3,6 +3,9 @@ ADM_Resource
 
 - [书籍列表](https://zhuanlan.zhihu.com/p/164496946)
 
+- [游戏制作的本质（第3版）](https://eyun.baidu.com/s/3d2yUhK) 密码：inq4
+
+
 ## 中文博文
 
 - [游戏开发流程](https://zhuanlan.zhihu.com/p/105788429)
