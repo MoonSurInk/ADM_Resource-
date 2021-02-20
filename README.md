@@ -1,5 +1,7 @@
 # Design-Wiki
 
+内容现已迁移到: [Wiki](https://github.com/MoonSurInk/Design-Wiki/wiki/%E6%B8%B8%E6%88%8F%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99)
+
 - [书籍列表](https://zhuanlan.zhihu.com/p/164496946)
 
 - [游戏制作的本质（第3版）](https://eyun.baidu.com/s/3d2yUhK) 密码：inq4
