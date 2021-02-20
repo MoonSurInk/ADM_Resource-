@@ -1,5 +1,4 @@
-# ADM_Resource-
-ADM_Resource 
+# Design-Wiki
 
 - [书籍列表](https://zhuanlan.zhihu.com/p/164496946)
 
