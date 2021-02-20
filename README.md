@@ -14,6 +14,8 @@ ADM_Resource
 - [开发游戏流程](https://www.jianshu.com/p/b78d7d426450) 推
 
 - [游戏开发项目管理那些事](http://www.bugclosed.com/post/22) 
+- 
+- [腾讯游戏开发者社区：一份小游戏团队项目管理的简易指南](https://gameinstitute.qq.com/community/detail/112788) 图都挂了
 
 
 
